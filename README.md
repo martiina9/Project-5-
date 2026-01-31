@@ -8,8 +8,8 @@ Jednoduchá Python aplikace pro správu úkolů s CRUD operacemi a sledovaním s
 <img width="372" height="342" alt="image" src="https://github.com/user-attachments/assets/973da397-cdbf-4699-802e-872e3b64181e" />
 
 
-- Ve složce src se nachází main script pro aplikaci Task Manager a funkce vytvořené pro testování
-- ve složce tests se nachází testovací skripty a skript pro vytvoření a nastavení testovací databáze v MySQL
+- Ve složce src se nachází main script pro aplikaci Task Manager a skript funkcí vytvořených pro testování
+- Ve složce tests se nachází testovací skripty a skript pro vytvoření a nastavení testovací databáze v MySQL
   
 ---
 ### 📋 Požadavky
